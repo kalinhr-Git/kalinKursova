@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Programs\Kalkata Domashno\Kalkata Domashno\Source.cpp(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\Programs\Kalkata Domashno\Kalkata Domashno\Source.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Kalkata Domashno.vcxproj -> D:\Programs\Kalkata Domashno\Debug\Kalkata Domashno.exe
